@@ -15,7 +15,7 @@ nominatim==0.1
 pdfminer==20191125
 pycryptodome==3.9.8
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.24.0
 six==1.15.0
 sqlparse==0.4.1
